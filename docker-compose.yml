@@ -1,0 +1,7 @@
+version: "3.5"
+services:
+  swms:
+    container_name: swms-container
+    build:
+      context: ./SinopeWattageMonitorService
+      dockerfile: Dockerfile
