@@ -1,6 +1,7 @@
 # SinopeWattageMonitorService
 Monitor service that allows you to read the current wattage from a "Smart electrical load controller 50 A – Zigbee" SinopeTech
 ## Dependencies
+* DotNet Runtime 5.0
 * Docker
 * RestSharp
 * NReco.Logging.File
